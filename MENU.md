@@ -1,4 +1,3 @@
-
 ![logo.infrapatch.com](https://logo.infrapatch.com/1/cover.png)
 
 # [infrapatch.com](https://www.infrapatch.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/infra-patch/bash/edit/main/MENU.md) 
@@ -10,14 +9,3 @@
 
 + [LICENSE](LICENSE)
 
-
-## About [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/infra-patch/www/edit/main/ABOUT.md)
-
-infrapatch służy do naprawiania niedziałających elementów infrastruktury
-wedle schematu dopasoanego do typu awarii czy usterki.
-
-
----
-
-+ [edit](https://github.com/infra-patch/bash/edit/main/README.md)
-+ [infra-patch/bash](https://github.com/infra-patch/bash)
