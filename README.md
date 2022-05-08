@@ -8,7 +8,6 @@
 + [Logotyp: logo.infrapatch.com](https://logo.infrapatch.com/)
 + [Pryzkłady - examples.infrapatch.com](http://examples.infrapatch.com)
 
-+ [LICENSE](LICENSE)
 
 
 ## About [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/infra-patch/www/edit/main/ABOUT.md)
