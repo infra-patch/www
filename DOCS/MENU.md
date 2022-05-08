@@ -7,5 +7,4 @@
 + [Logotyp: logo.infrapatch.com](https://logo.infrapatch.com/)
 + [Pryzkłady - examples.infrapatch.com](http://examples.infrapatch.com)
 
-+ [LICENSE](LICENSE)
 
